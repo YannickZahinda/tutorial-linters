@@ -1,2 +1,3 @@
-#Ignore
+# .gitignore
+node_modules/
 test.md
